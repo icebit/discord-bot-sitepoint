@@ -12795,8 +12795,7 @@
       "description":"HEAVY LARGE CIRCLE",
       "flagged":false,
       "keywords":[
-        "circle",
-        "o"
+        "circle"
       ]
     },
     {
@@ -13864,17 +13863,6 @@
       ]
     },
     {
-      "no":1482,
-      "code":"U+24C2",
-      "emoji":"Ⓜ",
-      "description":"CIRCLED LATIN CAPITAL LETTER M≊ circled letter m",
-      "flagged":false,
-      "keywords":[
-        "circle",
-        "m"
-      ]
-    },
-    {
       "no":1483,
       "code":"U+1F195",
       "emoji":"🆕",
@@ -13901,8 +13889,7 @@
       "description":"NEGATIVE SQUARED LATIN CAPITAL LETTER O≊ o button",
       "flagged":false,
       "keywords":[
-        "blood",
-        "o"
+        "blood"
       ]
     },
     {
